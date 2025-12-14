@@ -6,9 +6,9 @@ A Work-In-Progress driver for Anycubic Color Engine Pro for Klipper
 The module can be installed into a existing Klipper installation with an install script. 
 
     cd ~
-    git clone https://github.com/BlackFrogKok/BunnyACE.git
+    git clone https://github.com/swilsonnc/BunnyACE.git
     cd BunnyACE
-    ./install.sh
+    ./instal.sh
 
 ## Uninstall
 
@@ -17,7 +17,7 @@ section in the Moonraker configuration. Then run the script to remove the link:
 
     cd ~
     cd BunnyACE
-    ./install.sh -u
+    ./instal.sh -u
 
 ## Pinout
 
