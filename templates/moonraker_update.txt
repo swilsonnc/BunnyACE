@@ -3,6 +3,6 @@
 type: git_repo
 path: ~/BunnyACE
 primary_branch: development
-origin: https://github.com/BlackFrogKok/BunnyACE
+origin: https://github.com/swilsonnc/BunnyACE
 managed_services: klipper
 is_system_service: False
